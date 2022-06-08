@@ -2,16 +2,16 @@
 Scene Description Generation using Deep Learning Methods
 
 **Background Classification**
-**Pre-trained CNN Model:** ResNet50
-**Dataset:** Places365
-**Reference:**
+**Pre-trained CNN Model:** ResNet50\n
+**Dataset:** Places365\n
+**Reference:**\n
 Places: A 10 million Image Database for Scene
 Recognition B. Zhou, A. Lapedriza, A. Khosla, A.
 Oliva, and A. Torralba IEEE Transactions on Pattern
-Analysis and Machine Intelligence, 2017
+Analysis and Machine Intelligence, 2017\n
 
-**Object Detection**
-PyTorch Pre-trained Faster R-CNN package
+**Object Detection**\n
+PyTorch Pre-trained Faster R-CNN package\n
 
 **Action Identification**
 **Model:** ResNet50 classification model trained from scratch
